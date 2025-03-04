@@ -1,0 +1,5 @@
+Docstrings are way to create Documentation as we are coding
+use """ text """"  -> 3 quotation marks
+1.create comment 2. select add """
+can create multiline strings
+shows up like a documentration where that particular function is used

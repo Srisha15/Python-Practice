@@ -1,0 +1,5 @@
+if cards in hand > 21 -> BUST = Loose 
+all cards 2 to 10 = value == face value (2 card = 2)
+jack,king,queen value == 10
+ace value == 1 or 11 (user can decide which value to be used)
+if dealer total < 17 -> should take up another card
